@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+#title {
+  margin-top: 0px;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(76, 132, 253);
+}
+
+#txt {
+  text-align: center;
+  padding-top: 30px;
+  font-size: xx-large;
+}
+
+.quiz-container {
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  margin-top: 30px;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-align: centre;
+}
+
+.hidden {
+  display: none;
+}

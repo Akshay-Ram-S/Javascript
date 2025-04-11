@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["New Delhi", "Bengaluru", "Chennai", "Mumbai"],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "question": "What is color of the moon",
+    "options": ["Blue", "Green", "White", "Red"],
+    "answer": "White"
+  }
+]
