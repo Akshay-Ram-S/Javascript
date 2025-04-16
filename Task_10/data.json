@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 50000,
+    "category": "electronics",
+    "image": "images/laptop.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "price": 20000,
+    "category": "electronics",
+    "image": "images/phone.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Shoes",
+    "price": 3000,
+    "category": "fashion",
+    "image": "images/shoes.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "T-shirt",
+    "price": 1000,
+    "category": "fashion",
+    "image": "images/tshirt.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Airpods",
+    "price": 5000,
+    "category": "electronics",
+    "image": "images/airpods.jpeg"
+  }
+]
